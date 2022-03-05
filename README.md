@@ -1,9 +1,9 @@
 # Proyecto final de Análisis de datos
-###Integrantes:
-###- Raúl Tenorio
-###- Ariel Calderón
-###- Mateo Cueva
-###- Leonel Molina
+### Integrantes:
+### - Raúl Tenorio
+### - Ariel Calderón
+### - Mateo Cueva
+### - Leonel Molina
 
 La aplicación desarrollada consiste en un sistema capaz de recolectar información de distintas fuentes basándose en un tema específico, para después almacenar dicha información en bases de datos relacionales (MS SQL Server, MySQL, SQLite) y no relacionales (Mongo DB, Couch DB).
 
